@@ -1,0 +1,86 @@
+
+<Scheme version="1.3" LastUpgradeVersion="1000">
+    <BuildAction buildImplicitDependencies="YES" parallelizeBuildables="YES">
+        <BuildActionEntries>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Mediapipe.xcodeproj" BuildableName="FaceEffectApp.app" BuildableIdentifier="primary" BlueprintIdentifier="3D054A1EA50F0B5E00000000" BlueprintName="FaceEffectApp"></BuildableReference>
+            </BuildActionEntry>
+        </BuildActionEntries>
+        <PreActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent scriptText="" title="Run Script">
+                    <EnvironmentBuildable>
+                        <BuildableReference BuildableIdentifier="primary" BuildableName="FaceEffectApp.app" BlueprintName="FaceEffectApp" ReferencedContainer="container:Mediapipe.xcodeproj" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PreActions>
+        <PostActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent scriptText="" title="Run Script">
+                    <EnvironmentBuildable>
+                        <BuildableReference BuildableName="FaceEffectApp.app" BlueprintName="FaceEffectApp" BuildableIdentifier="primary" ReferencedContainer="container:Mediapipe.xcodeproj" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PostActions>
+    </BuildAction>
+    <TestAction selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" buildConfiguration="__TulsiTestRunner_Debug" shouldUseLaunchSchemeArgsEnv="YES" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB">
+        <Testables></Testables>
+        <PreActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent title="Run Script" scriptText="">
+                    <EnvironmentBuildable>
+                        <BuildableReference ReferencedContainer="container:Mediapipe.xcodeproj" BuildableIdentifier="primary" BlueprintName="FaceEffectApp" BlueprintIdentifier="3D054A1EA50F0B5E00000000" BuildableName="FaceEffectApp.app"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PreActions>
+        <PostActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent title="Run Script" scriptText="">
+                    <EnvironmentBuildable>
+                        <BuildableReference BuildableIdentifier="primary" BlueprintName="FaceEffectApp" BuildableName="FaceEffectApp.app" ReferencedContainer="container:Mediapipe.xcodeproj" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PostActions>
+        <BuildableProductRunnable runnableDebuggingMode="0">
+            <BuildableReference BuildableName="FaceEffectApp.app" BuildableIdentifier="primary" ReferencedContainer="container:Mediapipe.xcodeproj" BlueprintIdentifier="3D054A1EA50F0B5E00000000" BlueprintName="FaceEffectApp"></BuildableReference>
+        </BuildableProductRunnable>
+    </TestAction>
+    <LaunchAction selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" debugDocumentVersioning="YES" buildConfiguration="Debug" ignoresPersistentStateOnLaunch="NO" debugServiceExtension="internal" launchStyle="0" allowLocationSimulation="YES" useCustomWorkingDirectory="NO">
+        <CommandLineArguments>
+            <CommandLineArgument isEnabled="YES" argument=""></CommandLineArgument>
+        </CommandLineArguments>
+        <EnvironmentVariables></EnvironmentVariables>
+        <PreActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent title="Run Script" scriptText="">
+                    <EnvironmentBuildable>
+                        <BuildableReference ReferencedContainer="container:Mediapipe.xcodeproj" BuildableName="FaceEffectApp.app" BuildableIdentifier="primary" BlueprintName="FaceEffectApp" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PreActions>
+        <PostActions>
+            <ExecutionAction ActionType="Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+                <ActionContent title="Run Script" scriptText="">
+                    <EnvironmentBuildable>
+                        <BuildableReference BlueprintIdentifier="3D054A1EA50F0B5E00000000" ReferencedContainer="container:Mediapipe.xcodeproj" BuildableName="FaceEffectApp.app" BlueprintName="FaceEffectApp" BuildableIdentifier="primary"></BuildableReference>
+                    </EnvironmentBuildable>
+                </ActionContent>
+            </ExecutionAction>
+        </PostActions>
+        <BuildableProductRunnable runnableDebuggingMode="0">
+            <BuildableReference ReferencedContainer="container:Mediapipe.xcodeproj" BuildableIdentifier="primary" BuildableName="FaceEffectApp.app" BlueprintName="FaceEffectApp" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+        </BuildableProductRunnable>
+    </LaunchAction>
+    <ProfileAction shouldUseLaunchSchemeArgsEnv="YES" debugDocumentVersioning="YES" buildConfiguration="__TulsiTestRunner_Release" useCustomWorkingDirectory="NO">
+        <BuildableProductRunnable runnableDebuggingMode="0">
+            <BuildableReference BlueprintName="FaceEffectApp" ReferencedContainer="container:Mediapipe.xcodeproj" BuildableName="FaceEffectApp.app" BuildableIdentifier="primary" BlueprintIdentifier="3D054A1EA50F0B5E00000000"></BuildableReference>
+        </BuildableProductRunnable>
+    </ProfileAction>
+    <AnalyzeAction buildConfiguration="Debug"></AnalyzeAction>
+    <ArchiveAction buildConfiguration="Release" revealArchiveInOrganizer="YES"></ArchiveAction>
+</Scheme>
